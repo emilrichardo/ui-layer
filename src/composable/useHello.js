@@ -1,4 +1,4 @@
 export default  ()=>{
-    const mensaje = 'Hola mundillo'
+    const mensaje = ref('Hola mundillo')
     return  {mensaje}
 }
