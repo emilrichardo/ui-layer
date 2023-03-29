@@ -1,5 +1,5 @@
 {
-  "name": "my-nuxt-layer",
+  "name": "ui-invitok",
   "type": "module",
   "version": "0.0.1",
   "main": "./nuxt.config.ts",
