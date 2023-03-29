@@ -1,3 +1,4 @@
 export const useGetHello=()=>{
-    return 'Hola'
+    const mensaje = 'Hola mundillo'
+    return  {mensaje}
 }
