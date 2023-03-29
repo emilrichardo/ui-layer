@@ -1,4 +1,4 @@
-export const useGetHello=()=>{
+export default  ()=>{
     const mensaje = 'Hola mundillo'
     return  {mensaje}
 }
